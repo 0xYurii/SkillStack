@@ -1,0 +1,2 @@
+const get=document.documentElement
+
